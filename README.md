@@ -23,5 +23,5 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
 <p align="center">
-Obrigado, volte sempre 😄
+Obrigado e volte sempre 😄
 </p>
