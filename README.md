@@ -17,6 +17,9 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/murilo.farias.3/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
+[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias.netlify.app/)
+
+
 
 ### Minhas informações aqui no GitHub:
 ![Status](https://github-readme-stats.vercel.app/api?username=murilofarias10) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarias10&layout=compact)](https://github.com/murilofarias10/github-readme-stats)
