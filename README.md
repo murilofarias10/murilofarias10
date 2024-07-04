@@ -1,7 +1,6 @@
 
 ## Olá, meu nome é: Murilo Farias
-### Sou Eng. Eletricista.
-### com Pós graduação em: MBA em Gestão de Projetos em Tecnologia da Informação. 
+### Data Analyst com pós graduação em: MBA em Gestão de Projetos em Tecnologia da Informação. 
 ### Estudando:
 
 ![Github powerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
