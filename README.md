@@ -1,4 +1,4 @@
-## Olá, meu nome é: Murilo Farias
+## Hello, I am Murilo from Brazil, currently living in Vancouver Canada, Welcome to my profile:
 
 ### With over 5 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels.
 
