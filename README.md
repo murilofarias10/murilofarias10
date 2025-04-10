@@ -1,11 +1,12 @@
 ## Hello, I am Murilo from Brazil, currently living in Vancouver Canada, Welcome to my profile:
 
-### With over 5 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels.
+### With over 5 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels now in transitioning into data engineering with a passion for AI.
 
 ### My Project PDFusion:
 ### I’m the developer and owner of PDFusion.ca :
 [![PDFusion](https://img.shields.io/badge/PDFusion-PDF%20Comparison%20Using%20AI-white?style=for-the-badge&labelColor=white&color=034E91)](https://pdfusion.ca/)
 
+[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilofarias.netlify.app/)](https://murilofarias.netlify.app/)
 
 
 ### I love:
@@ -18,12 +19,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/murilo-farias-10/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//murilofarias10/)](https://github.com/murilofarias10)
 
-[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias.netlify.app/)
+
+
 <!--[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilofarias.netlify.app/)
 [![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias-portfolio.lovable.app/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
 
+[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias.netlify.app/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/murilo.farias.3/)
 -->
 
