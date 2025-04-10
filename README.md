@@ -2,8 +2,13 @@
 
 ### With over 5 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels.
 
-### I love:
+### My Project PDFusion:
+### I’m the developer and owner of PDFusion.ca :
+[![PDFusion](https://img.shields.io/badge/PDFusion-PDF%20Comparison%20Using%20AI-white?style=for-the-badge&labelColor=white&color=034E91)](https://pdfusion.ca/)
 
+
+
+### I love:
 ![Github powerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Github python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -12,11 +17,15 @@
 ### Social medias:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/murilo-farias-10/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//murilofarias10/)](https://github.com/murilofarias10)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/murilo.farias.3/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
+
 [![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias.netlify.app/)
-[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias-portfolio.lovable.app/)
+<!--[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilofarias.netlify.app/)
+[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilo-farias.netlify.app/)](https://murilo-farias-portfolio.lovable.app/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/murilo.c.farias/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)](https://www.youtube.com/channel/UCgK4h8kV3RBWict0L6uzFAw)
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/murilo.farias.3/)
+-->
 
 ### My infos here:
 ![Status](https://github-readme-stats.vercel.app/api?username=murilofarias10) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarias10&layout=compact)](https://github.com/murilofarias10/github-readme-stats)
@@ -29,6 +38,7 @@
 Thank you, welcome !! 😄
 </p>
 
+<!--
 ### Tabela de Comandos Git:
 
 | Comando                        | Descrição                                                                 |
@@ -66,3 +76,5 @@ Thank you, welcome !! 😄
 | `git stash list`               | Lista todas as entradas no stash.                                         |
 | `echo nome_do_arquivo > .gitignore`| Adiciona um arquivo ao .gitignore para que ele seja ignorado pelo Git.|
 | `touch caminho/pasta/.gitkeep` | Cria um arquivo vazio chamado .gitkeep em uma pasta para garantir que ela seja rastreada pelo Git.|
+
+-->
