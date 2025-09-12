@@ -1,6 +1,10 @@
 ## Hello, I am Murilo from Brazil, currently living in Vancouver Canada, Welcome to my profile:
 
-### With over 5 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels now in transitioning into data engineering with a passion for AI.
+### With over 7 years of experience working on large-scale projects for multinational in collecting, analyzing, and interpreting datasets to support business decision-making, using tolls such as SQL, Excel, Python and Power BI, providing actionable insights that drive efficiency and improve performance for stakeholders at all levels now in transitioning into data engineering with a passion for AI.
+
+### My aspirations to contribute to a better future are in sync with the evolution, not just of technology, but also of humanity, where its best qualities can be utilized to build something greater.
+
+## • AI • Machine Learning. • Power Bi. • SQL. • Python. • Data Lake, Data warehouse, Data Pipe line (ETL). • Data science.
 
 ### My Project PDFusion:
 ### I’m the developer and owner of PDFusion.ca :
