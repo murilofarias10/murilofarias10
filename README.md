@@ -20,7 +20,7 @@ I have 7+ years of experience working with data: collecting, analyzing, and turn
 
 - [AiComparely](https://www.aicomparely.com) — AI product for document comparison (deployed, with demos and backend)
 - [GAS-iGaming](https://github.com/murilofarias10/GAS-iGaming) — Geo Alert System automation for iGaming dashboards and data pipelines
-- [Smart-fill](https://github.com/murilofarias10/Smart-fill) — Kind of play a game with your PDF file.
+- [Smart-fill](https://github.com/murilofarias10/Smart-fill) — Is an interactive game designed to generate engaging "fill-in-the-blank"
 - [KSS](https://github.com/murilofarias10/KSS) — Turns engineering PDFs into interactive, searchable electrical dashboards
 - [MSN](https://github.com/murilofarias10/MSN) — AI-powered meeting minutes management platform for engineering and construction projects
 - [World-Cup](https://github.com/murilofarias10/world-cup-2026) — Web app for tracking the FIFA World Cup 2026
