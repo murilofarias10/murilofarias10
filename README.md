@@ -4,10 +4,36 @@
 
 ### My aspirations to contribute to a better future are in sync with the evolution, not just of technology, but also of humanity, where its best qualities can be utilized to build something greater.
 
-## • AI • Machine Learning. • Power Bi. • SQL. • Python. • Data Lake, Data warehouse, Data Pipe line (ETL). • Data science.
+## • AI • Machine Learning. • Power BI • SQL • Python • Data Lake • Data Warehouse • ETL • Data Science
 
+---
+
+### Selected achievements
+• 🤖 Machine learning, models, and AI — earned certificates: Microsoft AI-900, AWS, and Hugging Face
+• 🚀 As part of VAM! I hosted 50+ events and attended 80+ meetups, AI reading groups, socials, and board games
+• 💡 Built an AI product from scratch, deployed it, and found partners to keep improving it — https://www.aicomparely.com
+• 🤝 Helped 10+ people build and deploy their own AI ideas
+• 🏆 Joined 3 in-person hackathons (Salmon, NASA, Databricks) and won 1st place at the NASA Hackathon 😄
+• 🎓 Received an Acknowledgement of Achievement from my college
+• 💼 Volunteered at: START Group Consulting (Vancouver), Flavorish (Toronto), InovativAI (Edmonton)
+
+---
+
+### Projects & repositories (click to open)
+- [AiComparely](https://github.com/murilofarias10/AiComparely) — AI product for document comparison (deployed, demos, backend)
+- [PDFusion](https://github.com/murilofarias10/PDFusion) — PDF comparison using AI (project site linked below)
+- [GAS-iGaming](https://github.com/murilofarias10/GAS-iGaming) — Google Apps Script examples and dashboards
+- [MF-CCTB](https://github.com/murilofarias10/MF-CCTB) — Personal utilities and experiments
+- [Salmon-project](https://github.com/murilofarias10/Salmon-project) — Hackathon project (Salmon)
+- [Smart-fill](https://github.com/murilofarias10/Smart-fill) — Automation utilities
+- [python-ai-agent-frameworks-demos](https://github.com/murilofarias10/python-ai-agent-frameworks-demos) — Demos for AI agent frameworks
+- [murilo-farias-portfolio](https://github.com/murilofarias10/murilo-farias-portfolio) — Personal website/portfolio source
+- [RAG-ETAP](https://github.com/murilofarias10/RAG-ETAP) — Retrieval-augmented generation experiments
+
+(Full list on my GitHub: https://github.com/murilofarias10)
+
+### Featured project / badges
 ### My Project PDFusion:
-### I’m the developer and owner of PDFusion.ca :
 [![PDFusion](https://img.shields.io/badge/PDFusion-PDF%20Comparison%20Using%20AI-white?style=for-the-badge&labelColor=white&color=034E91)](https://pdfusion.ca/)
 
 [![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{0048ff}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=https://murilofarias.netlify.app/)](https://murilofarias.netlify.app/)
@@ -40,7 +66,7 @@
 <p align="center">
  Quantity views since: 26/06/2021 🕵️ <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
+   <img align="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
 <p align="center">
 Thank you, welcome !! 😄
 </p>
