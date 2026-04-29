@@ -46,6 +46,7 @@ I have 7+ years of experience working with data: collecting, analyzing, and turn
 - [MF-CCTB](https://github.com/murilofarias10/MF-CCTB) — Personal utilities and experiments
 - [langchain-course](https://github.com/murilofarias10/langchain-course) — Introduction to LangGraph course
 - [SQL](https://github.com/murilofarias10/R_SQL_OUTROS) — Experiments using SQL, Python, and more
+- [QR-Free-Generation](https://github.com/murilofarias10/QR_FREE_GENERATION) — Instant QR code generator — no API keys, no external services, just run and go
 
 ---
 
