@@ -10,7 +10,7 @@ I have 7+ years of experience working with data: collecting, analyzing, and turn
 - 🚀 **Community Leadership** — Hosted 50+ events and attended 80+ meetups, AI reading groups, and socials with [VAM!](https://vanaimeetup.com/)
 - 💡 **AI Product Development** — Built, deployed, and scaled an AI product from scratch with active partnerships — [aicomparely.com](https://www.aicomparely.com)
 - 🤝 **Mentorship** — Helped 20+ people build and launch their own AI projects
-- 🏆 **Hackathons** — Competed in 4 in-person hackathons (Salmon, NASA, Databricks, Microsoft) and won **1st place** at both the NASA and Salmon Hackathons, top 7 at the Microsoft Hackathon 🎉
+- 🏆 **Hackathons** — Competed in 5 in-person hackathons (Salmon, NASA, Databricks, Microsoft, Cursor) and won **1st place** at both the NASA and Salmon Hackathons, top 4 at the Cursor Hackathon, and top 7 at the Microsoft Hackathon 🎉
 - 🎓 **Academic Recognition** — Received an Acknowledgement of Achievement from my college
 - 💼 **Volunteer Experience** — START Group Consulting (Vancouver), Flavorish (Toronto), InovativAI (Edmonton)
 
@@ -38,7 +38,9 @@ I have 7+ years of experience working with data: collecting, analyzing, and turn
 
 - [Salmon Project](https://github.com/murilofarias10/Salmon-project) — Machine Learning model to forecast salmon returns in 2026 *(1st place)*
 - [NASA Hackathon](https://www.linkedin.com/posts/murilofarias10_spaceapps-nasa-ai-ugcPost-7381349717609267200-GW4K?utm_source=share&utm_medium=member_desktop&rcm=ACoAABsYBZUBi-K2klE3jsWwBnLSJTLUH8uxBuY) — Space Apps challenge here in Vancouver *(1st place)* 🚀
+- [Website Enhancer](https://github.com/RonaldCedeno/website-enhancer) — AI-powered tool that analyzes and enhances websites, built during the Cursor Hackathon. Achieved **top 4** out of all submissions 🎯
 - [MSN](https://github.com/murilofarias10/MSN) — AI-powered meeting minutes management platform for engineering and construction projects, built during the Microsoft Hackathon. Got **top 7 out of over 1000 submissions** 🏅
+
 
 ---
 
